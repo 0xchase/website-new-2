@@ -10,7 +10,7 @@ I'm a graduate of the [University of Maryland](https://cs.umd.edu), computer sec
 
 You can contact me at chasekanipe [at] gmail [dot] com.
 
-### Interests
+## Interests
 - **Cybersecurity**: Vulnerability research, reverse engineering, cryptography, symbolic execution
 - **Computer Science**: Rust, deep learning and AI, digital signal processing, formal methods
 - **Physics**: Foundations of physics, quantum computing, statistical mechanics
