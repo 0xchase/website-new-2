@@ -2,6 +2,7 @@
 title: Curriculum Vitae
 layout: default
 nav_order: 3
+has_toc: true
 ---
 
 # Curriculum Vitae
