@@ -1,10 +1,10 @@
 ---
-title: About
+title: Projects
 layout: defualt
 nav_order: 4
 ---
 
-# About
+# Projects
 
 This will be a fairly extensive about page.
 

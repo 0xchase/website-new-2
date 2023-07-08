@@ -1,10 +1,10 @@
 ---
-title: About
+title: Music
 layout: defualt
 nav_order: 4
 ---
 
-# About
+# Music
 
 This will be a fairly extensive about page.
 

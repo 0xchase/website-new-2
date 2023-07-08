@@ -1,10 +1,10 @@
 ---
-title: About
+title: Blog
 layout: defualt
 nav_order: 5
 ---
 
-# About
+# Blog
 
 This will be a fairly extensive about page.
 
