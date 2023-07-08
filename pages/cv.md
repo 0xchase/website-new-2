@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-layout: cv
+layout: default
 nav_order: 3
 ---
 

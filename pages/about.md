@@ -1,6 +1,6 @@
 ---
 title: About
-layout: about
+layout: defualt
 nav_order: 2
 ---
 
