@@ -1,6 +1,7 @@
 ---
 title: Curriculum Vitae
 layout: cv
+nav_order: 3
 ---
 
 # About

@@ -1,9 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-# Chase Kanipe
+# Home
 
 I'm a graduate of the [University of Maryland](https://cs.umd.edu), computer security researcher, and musician. This website is a repository of my projects, something, and something. Use the sidebar links to navigate around.
 
