@@ -1,10 +1,10 @@
 ---
-title: Curriculum Vitae
-layout: default
-nav_order: 3
+title: About
+layout: defualt
+nav_order: 5
 ---
 
-# Curriculum Vitae
+# About
 
 This will be a fairly extensive about page.
 
