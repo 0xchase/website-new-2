@@ -1,6 +1,6 @@
 ---
 title: Music
-layout: defualt
+layout: default
 nav_order: 4
 ---
 

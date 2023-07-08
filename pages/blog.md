@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: defualt
+layout: default
 nav_order: 5
 ---
 
